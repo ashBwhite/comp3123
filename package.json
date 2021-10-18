@@ -1,0 +1,22 @@
+{
+  "name": "101282741_comp3123_assig1",
+  "version": "1.0.0",
+  "description": "package created for full stack development assignment 1, october 2021.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashBwhite/comp3123.git"
+  },
+  "author": "Yoo Kyung Baek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashBwhite/comp3123/issues"
+  },
+  "homepage": "https://github.com/ashBwhite/comp3123#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
